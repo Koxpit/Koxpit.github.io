@@ -1,0 +1,33 @@
+.main-header {
+  background-color: #fff;
+}
+.main-calculator {
+  background-color: #fff;
+}
+.main-calculator-top {
+  color: #fff;
+}
+.main-calculator-top p {
+  font-size: 40px;
+}
+.text {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-style: normal;
+}
+.main {
+  background-color: #ffffff;
+  background-color: #f1f1f1;
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-style: normal;
+}
+.text-about-us {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-style: normal;
+  color: #e5e5e5;
+}
+.main-box {
+  padding: 69px;
+}s
